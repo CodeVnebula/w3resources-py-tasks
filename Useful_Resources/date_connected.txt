@@ -1,0 +1,7 @@
+Date Connected
+
+    module -> 'datetime'
+        1. date.today() - returns current date
+        2. datetime.now() - returns current date/time/timezone
+        3. strftime() - formats the datetime object as a string with the desired format
+

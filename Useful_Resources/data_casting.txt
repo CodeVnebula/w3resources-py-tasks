@@ -1,0 +1,5 @@
+Data Casting
+
+    1. Data to string - str(dataType)
+    2. Data to integer - int(dataType)
+    3. Data to float - float(dataType)
