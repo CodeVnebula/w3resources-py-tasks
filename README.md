@@ -1,5 +1,5 @@
 # W3Resources Python Tasks
-This repository serves as a comprehensive collection of tasks ranging from basic to advanced levels sourced from https://W3Resources.com for Python programming language.
+This repository serves as a comprehensive collection of tasks ranging from basic to advanced levels sourced from https://W3Resource.com for Python programming language.
 
 ## Overview
 W3Resources offers a plethora of Python exercises covering a wide range of topics, making it an invaluable resource for beginners and experienced developers alike. This repository aims to organize these tasks systematically.
