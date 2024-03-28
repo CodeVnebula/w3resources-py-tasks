@@ -1,8 +1,12 @@
 String Connected
 
     1. split() - splits the string at the given argument
+
     Formating:
         1. %d - is used for decimal integers.
         2. %f - is used for floating-point numbers.
         3. %x - is used for hexadecimal integers.
         4. %s - is a generic placeholder for inserting any string representation of an object.
+
+    Printing:
+        1. print(""" content goes here """) - triple double-quotes to create a multi-line string

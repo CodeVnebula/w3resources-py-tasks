@@ -4,4 +4,8 @@ Date Connected
         1. date.today() - returns current date
         2. datetime.now() - returns current date/time/timezone
         3. strftime() - formats the datetime object as a string with the desired format
+        4. date1-date2=gap  gap.days - returns days between two given dates
 
+    module -> 'calendar'
+        1. calendar.year(year) - returns the calendar of the given year
+        2. calendar.month(year, month) - returns the calendar of the month of given year and month
