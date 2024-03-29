@@ -10,3 +10,6 @@ String Connected
 
     Printing:
         1. print(""" content goes here """) - triple double-quotes to create a multi-line string
+    
+    Simplifying
+        1. our_string.strip() - removes extra white spaces from start and end of the string 
