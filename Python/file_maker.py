@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 URL = "https://www.w3resource.com/python-exercises/python-basic-exercises.php"
 # Link can be changed for different task pages
 
-folder_name = "Python_basic_(Part -I)"
+folder_name = "Python/Python_basic_(Part -I)"
 
 if not os.path.exists(folder_name):
     os.makedirs(folder_name)
