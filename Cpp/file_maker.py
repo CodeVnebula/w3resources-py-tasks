@@ -29,7 +29,7 @@ for i in range(start, start + end):
         a_tag = parent_p_tag.find('a')
         
         if a_tag:
-            link = "Link: " + "https://www.w3resource.com/cpp-exercises/" + a_tag['href']
+            link = "Link: " + "https://www.w3resource.com/cpp-exercises/basic/" + a_tag['href']
         else:
             link = "\nLink: " + "https://www.w3resource.com/cpp-exercises/basic/cpp-basic-exercise-" + str(i) + ".php"
 
