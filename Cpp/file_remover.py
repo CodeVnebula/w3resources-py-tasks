@@ -11,10 +11,12 @@ def delete_file(file_name: str, file_index: int, file_amount: int):
 
 path = "Cpp/"
 folder_name = path + "C++Basic"
-file_name = "task{index}.cpp"
+
 
 
 file_index = int(input("Current index of file: "))
 file_amount = int(input("Amount of files to remove: "))
+file_ext = input("File extension: ")
+file_name = "task{index}" + file_ext
 
 delete_file(file_name, file_index, file_amount)

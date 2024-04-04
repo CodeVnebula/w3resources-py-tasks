@@ -5,6 +5,24 @@ from bs4 import BeautifulSoup
 URL = "https://www.w3resource.com/cpp-exercises/basic/index.php"
 # Link can be changed for different task pages
 
+cpp_code = '''
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "\\n\\n  :\\n"; // Outputting a message
+    cout << "-----------------------------------\\n"; // Outputting a separator line
+
+    
+    
+    cout << endl;
+
+    return 0;
+}
+'''
+
+
 path = "Cpp/"
 folder_name = path + "C++Basic"
 
@@ -40,7 +58,7 @@ for i in range(start, start + end):
         if int(task_index) == i:
             file_name = os.path.join(folder_name, "task{}.cpp".format(i))
             with open(file_name, "w") as file:
-                file.write(f'/*\n{result_string}\n{link}\n*/\n\n// Solution\n\n')
+                file.write(f'/*\n{result_string}\n{link}\n*/\n\n// Solution\n{cpp_code}')
 
             print("'{}' has been created successfully.".format(file_name))
             break
