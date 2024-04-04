@@ -1,7 +1,0 @@
-System Connected
-
-    module -> 'sys'
-        1. sys.version - for getting current version of Python
-        2. sys.version_info - for getting additional details about Python version
-    
-    1. (functionName).__doc__ - returns short description of built in functions

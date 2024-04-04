@@ -1,5 +1,0 @@
-Formating
-    floating-point numbers
-        1. '%.3f'% - to get only 3 floating-point digits of number
-    
-    1. abs(number) - returns absolute value of the given number abs(-3) = 3... |-3| =  3

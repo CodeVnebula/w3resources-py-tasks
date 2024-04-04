@@ -1,4 +1,0 @@
-Random
-    module -> 'random'
-        1. randint(start_arg, end_arg, step) - generates random integer values from start_arg to end_arg.
-           step and start_arg by default are equal to 0

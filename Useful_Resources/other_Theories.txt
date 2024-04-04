@@ -1,8 +1,0 @@
-Other (Theory)
-
-   1. List - A list is a container which holds comma separated values (items or elements) 
-      between square brackets where items or elements need not all have the same type.
-      Indexating of the list starts at 0 can be reached list[0]
-   2. Tuple - A tuple is container which holds a series of comma separated values (items or elements) 
-      between parentheses such as an (x, y) co-ordinate.
-   3. list_1.difference(list_2) - this returns elements that are in list_1 but aren't in list_2
