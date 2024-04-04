@@ -1,0 +1,18 @@
+Library -> #include <climits> for:
+
+    Check the upper and lower limits of datatypes
+        1. INT_MAX
+        2. INT_MIN 
+        3. UINT_MAX 
+        4. LLONG_MAX 
+        6. LLONG_MIN 
+        5. ULLONG_MAX
+        7. CHAR_BIT 
+        8. CHAR_MAX 
+        9. CHAR_MIN 
+        10. SCHAR_MAX 
+        11. SCHAR_MIN 
+        12. UCHAR_MAX 
+        13. SHRT_MIN 
+        14. SHRT_MAX 
+        15. USHRT_MAX 
