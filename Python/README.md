@@ -1,5 +1,5 @@
 # W3Resources Python Tasks
-This repository serves as a comprehensive collection of tasks ranging from basic to advanced levels sourced from https://W3Resource.com for Python programming language. This repository will also contain gathered 
+This directory serves as a comprehensive collection of tasks ranging from basic to advanced levels sourced from https://W3Resource.com for Python programming language. This directory will also contain gathered 
 resources and knowledge around the given tasks, stored in 'Useful_Resources" directory...
     
 ## Overview
