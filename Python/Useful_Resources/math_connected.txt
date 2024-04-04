@@ -1,0 +1,5 @@
+Math Connected
+
+    module -> 'math'
+        1. math.pi - returns value of 'pi' number
+        2. math.pow() - gives power of number
